@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+<link rel="stylesheet" type="text/css" href="CSS/style.css">
+<meta charset="utf-8">
+<head>
+	<title>↯ Flowgen ↯</title>
+</head>
+<body>
+<center>
+<font color="red"><B>Flowgen | Générateur de comptes en tous genre </B></font>
+<hr>
+</center>
+<html>
+<head>
+</head>
+
+<style type="text/css">
+
+
+*{
+ margin: 0px;
+ padding: 0px;
+}
+body{
+ font-family: arial;
+}
+.main{
+
+ margin: 2%;
+}
+
+.card{
+     width: 20%;
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 5px; 
+     margin: 2%;
+    }
+
+.image img{
+  width: 100%;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+  
+
+ 
+ }
+
+.title{
+ 
+  text-align: center;
+  padding: 10px;
+  
+ }
+
+h1{
+  font-size: 20px;
+ }
+
+.des{
+  padding: 3px;
+  text-align: center;
+ 
+  padding-top: 10px;
+        border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+button{
+  margin-top: 40px;
+  margin-bottom: 10px;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding:10px;
+}
+button:hover{
+  background-color: black;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+
+</style>
+<body>
+
+<div class="main">
+
+ <!--cards -->
+
+<div class="card">
+
+<div class="image">
+   <img src="https://thumbs.gfycat.com/CloseWhirlwindCollardlizard-max-14mb.gif">
+</div>
+<div class="title">
+ <h1>Spotify</h1>
+</div>
+<div class="des">
+ <p>Spotify est un service suédois de streaming musical sous la forme d'un logiciel propriétaire et d'un site web. Cette plateforme de distribution numérique permet une écoute quasi instantanée de fichiers musicaux.</p>
+<button>EXEMPLE@GMAIL.COM : 123</button>
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="https://hips.hearstapps.com/bpc.h-cdn.co/assets/17/35/1504021644-what-is-vpn.gif">
+</div>
+<div class="title">
+ <h1>Nord VPN</h1>
+</div>
+<div class="des">
+ <p>NordVPN est un prestataire de services de réseau privé virtuel. Il propose des applications de bureau pour Windows, macOS et Linux. Des applications mobiles sont disponibles pour Android et IOS ainsi que pour Android TV</p>
+<button>EXEMPLE@GMAIL.COM : 123</button>
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASsAAACoCAMAAACPKThEAAAAkFBMVEX3jCT+/v76jSLEfDr3ih/3iRv3iBb6woj5uXj3hxP3ihn+/v35q2P3hwr98+j++vT83L/3mj74o1L72Lj5sm34pVf4rmf3kS/4nEb4n0v3kiv6wpH5uH798ub5tHT84MX6yZz97d3706385c77y6T5voL5r3D848v6wIz71LL5uYP7yaD3lzf4pFz5qmb4nk75pWAjAAAET0lEQVR4nO3d23KyOhgGYGB9CRJ24oadiCJUbKX/uv+7W0lQK246nflnjXZ8n4OOnfYg886XkISAhgEAAABwhh7dgN+BJrZtz+QHNpIfPJUaIbq7KLI91vHRjEcqJebNEdZ9b3FmJ6NZakdEeWmnyOoGUpj1Fqd9Vh1LRnbEHt2sp+RpMzs6ZpXaZfkWoa6udaNextKRMZsno8SLiWYesrqB9cggZsifTF8DGaICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4e8QcX3E4Ht37FjkiK9eruqrq6WKbOhxx3UFOtq5C8ySsd5GPtG4gZzI9C+oQ1yZyHt2w58Py5iopJVgIlNYQm1e3klLaSDy6dU9FlMFZKbXvi6Iodps2cNXvS48/un1PRBSn/hdOt4ngnDHGuUjid5Vh6KGyjlh5jCrcpOJsXkVMRHv5t2COV5X02OTYAev51UBOYrIyzQqvKtEor/uk3Cbvy4cYV51OdkX9XqV87ZpT9EKFrw9RLSxdPMS7smmr5bJ+L1JVZyR2oVtgfJdJpOEhKl06cvK++bomhuNM5cd3bpWjFxrOpo9lo6uKrP35lDQoEv1PojF36IXU9VVUJXpsiurBpD079Dw5plUPbeZT4Lu+B3pqWGdZcB6V+zUJZfMwfvl5g7/SsYxVD6NuOVjdjP2v/xPvzcuP7lY/POnJplgNV4Kzs0qief2wNj4JNtdLvtqSn7k9jModvoNx+uqvZOQfOpYFVy+MXV5kNZiss49Xf3Wes9CxTGQM/M28MFgFUha/elZ7PTdQE01eX2a1H+yJJi9fVzqrWqiL4NW+aHA2V5clliErNTmQwxWLL6NSk4ZDPGS8egc0juPV1DmN8hdh5Y56866Tt+dzrRfFi1NWixtZmcF60nWTdWCukBWlan614veykkI9jiErucZRK8DKOlbYXVNkZfhTVToJ3RzbzzS4p2qIUiXxyQzKb95LPSqxfSXDUiubtRyw/PabqAJsixqHWcPSujNpOA1X6IKKLiy1kWct70bl4isyNK5GLLXK+eZKiLI68McyDXVP63Kv72u06lBWPcorGUdEcvlc3YwqxOGPE5bKkaqVVzqW3QorLBHVFz6RYW0MGVZ6tYllBjEGq3NCZbSRs3fK14PbXqY7jVBVQyzfuOYqZUQ8a/ojarr7jT2cRb5CIq7NZZHLtEQ326+qqmo3ReS8/A3Um1he1GFbJjItdabPEo6DxwHuIW54TTtefEbJo5vyGzBuZNtiNOke3ZDfgfR3agEAAAAAAMALY9i9+pZ+VEl9CbVj8O36DyfkdYvatUo+ZU4fKYlto06FuF7e/EFYV6wqJb4wOx6b774IzVjdYm12ZoWTV1foX3XMrzQo2c9J7FaGeqqp7NoCp4mu6ecHVYdz1Gl3n/jHuODkI6qf4D5uDQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPzvLPgp4x/4qf8AiJo/2337gPkAAAAASUVORK5CYII=">
+</div>
+<div class="title">
+ <h1>Crunchyroll</h1>
+</div>
+<div class="des">
+ <p>Crunchyroll est un distributeur américain, un éditeur, une société de licence et une communauté virtuelle internationale basée sur le partage des médias est-asiatiques comme les anime, les mangas, les dramas, la musique entre autres.</p>
+<button>EXEMPLE@GMAIL.COM : 123</button>
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+</div>
+</div>
+<!--cards -->
+
+<div class="card">
+
+<div class="image">
+   <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+</div>
+</div>
+<!--cards -->
+
+<div class="card">
+
+<div class="image">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg/1199px-Gfp-missouri-st-louis-clubhouse-pond-and-scenery.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="https://cdn.pixabay.com/photo/2018/01/09/03/49/the-natural-scenery-3070808_1280.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+</div>
+</div>
+<!--cards -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="https://cdn.pixabay.com/photo/2015/11/07/11/41/lake-1031405_1280.jpg">
+</div>
+<div class="title">
+ <h1>
+Write title Here</h1>
+</div>
+<div class="des">
+ <p>You can Add Desccription Here...</p>
+<button>Read More...</button>
+</div>
+</div>
+</div>
+</body>
+</html>
